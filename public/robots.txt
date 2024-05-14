@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /
+Disallow: /404.html
+Sitemap: https://mattfu25.github.io/penn-course-search-landing-page/sitemap.xml
