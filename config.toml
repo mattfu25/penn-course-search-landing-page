@@ -1,7 +1,7 @@
-baseURL = 'https://mattfu25.github.io/hugo-mock-landing-page/'
-title = "Dinner Table"
+baseURL = 'https://mattfu25.github.io/penn-course-search-landing-page/'
+title = "Penn Course Search"
 author = "Matt Fu"
-copyright = "Dinner Table"
+copyright = "Penn Course Search"
 
 timeZone = 'Europe/London'
 
